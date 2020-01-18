@@ -1,0 +1,9 @@
+mean - cr score:700
+       monthly_installment: 100000
+       maturity_day:500
+       outstanding_amt:500000
+
+std - cr score: 300
+      monthly_installment: 40000
+      maturity_day: 300
+      outstanding_amt: 400000
